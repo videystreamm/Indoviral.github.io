@@ -1,6 +1,3 @@
-update.js
-
-
 const fs = require('fs');
 
 let data = JSON.parse(fs.readFileSync('videos.json'));
